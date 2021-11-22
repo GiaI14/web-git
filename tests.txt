@@ -1,2 +1,2 @@
-This is new git chapter!
+This is a first chapter!
 ANd here we go with commit #2!
